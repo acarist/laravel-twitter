@@ -23,12 +23,6 @@
                             <td>{{ $results }}</td>
                         </tr>
                     @endforeach
-                    <tr>
-                        <td>@fat</td>
-                    </tr>
-                    <tr>
-                        <td>@twitter</td>
-                    </tr>
                     </tbody>
                 </table>
             </div>
