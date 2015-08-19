@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title"> <a href="search/laravel">Search Test</a> </div>
             </div>
         </div>
     </body>
